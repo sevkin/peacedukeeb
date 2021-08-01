@@ -1,0 +1,1194 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Switch:SW_Push SW1
+U 1 1 6103A7BD
+P 2200 1500
+F 0 "SW1" H 2050 1700 50  0000 L BNN
+F 1 "SW_Push" H 2050 1600 50  0000 L BNN
+F 2 "keyswitches:Kailh_socket_MX" H 2200 1700 50  0001 C CNN
+F 3 "~" H 2200 1700 50  0001 C CNN
+	1    2200 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D1
+U 1 1 6103B5CA
+P 2000 1650
+F 0 "D1" V 2050 1550 50  0000 R BNN
+F 1 "D" V 1950 1550 50  0000 R BNN
+F 2 "Diode_SMD:D_SOD-123" H 2000 1650 50  0001 C CNN
+F 3 "~" H 2000 1650 50  0001 C CNN
+	1    2000 1650
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW5
+U 1 1 61041828
+P 2700 1500
+F 0 "SW5" H 2550 1700 50  0000 L BNN
+F 1 "SW_Push" H 2550 1600 50  0000 L BNN
+F 2 "keyswitches:Kailh_socket_MX" H 2700 1700 50  0001 C CNN
+F 3 "~" H 2700 1700 50  0001 C CNN
+	1    2700 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D5
+U 1 1 6104182E
+P 2500 1650
+F 0 "D5" V 2550 1550 50  0000 R BNN
+F 1 "D" V 2450 1550 50  0000 R BNN
+F 2 "Diode_SMD:D_SOD-123" H 2500 1650 50  0001 C CNN
+F 3 "~" H 2500 1650 50  0001 C CNN
+	1    2500 1650
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW2
+U 1 1 610436CC
+P 2200 2050
+F 0 "SW2" H 2050 2250 50  0000 L BNN
+F 1 "SW_Push" H 2050 2150 50  0000 L BNN
+F 2 "keyswitches:Kailh_socket_MX" H 2200 2250 50  0001 C CNN
+F 3 "~" H 2200 2250 50  0001 C CNN
+	1    2200 2050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D2
+U 1 1 610436D2
+P 2000 2200
+F 0 "D2" V 2050 2100 50  0000 R BNN
+F 1 "D" V 1950 2100 50  0000 R BNN
+F 2 "Diode_SMD:D_SOD-123" H 2000 2200 50  0001 C CNN
+F 3 "~" H 2000 2200 50  0001 C CNN
+	1    2000 2200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW6
+U 1 1 610436D8
+P 2700 2050
+F 0 "SW6" H 2550 2250 50  0000 L BNN
+F 1 "SW_Push" H 2550 2150 50  0000 L BNN
+F 2 "keyswitches:Kailh_socket_MX" H 2700 2250 50  0001 C CNN
+F 3 "~" H 2700 2250 50  0001 C CNN
+	1    2700 2050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D6
+U 1 1 610436DE
+P 2500 2200
+F 0 "D6" V 2550 2100 50  0000 R BNN
+F 1 "D" V 2450 2100 50  0000 R BNN
+F 2 "Diode_SMD:D_SOD-123" H 2500 2200 50  0001 C CNN
+F 3 "~" H 2500 2200 50  0001 C CNN
+	1    2500 2200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW9
+U 1 1 61045660
+P 3200 1500
+F 0 "SW9" H 3050 1700 50  0000 L BNN
+F 1 "SW_Push" H 3050 1600 50  0000 L BNN
+F 2 "keyswitches:Kailh_socket_MX" H 3200 1700 50  0001 C CNN
+F 3 "~" H 3200 1700 50  0001 C CNN
+	1    3200 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D9
+U 1 1 61045666
+P 3000 1650
+F 0 "D9" V 3050 1550 50  0000 R BNN
+F 1 "D" V 2950 1550 50  0000 R BNN
+F 2 "Diode_SMD:D_SOD-123" H 3000 1650 50  0001 C CNN
+F 3 "~" H 3000 1650 50  0001 C CNN
+	1    3000 1650
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW13
+U 1 1 6104566C
+P 3700 1500
+F 0 "SW13" H 3550 1700 50  0000 L BNN
+F 1 "SW_Push" H 3550 1600 50  0000 L BNN
+F 2 "keyswitches:Kailh_socket_MX" H 3700 1700 50  0001 C CNN
+F 3 "~" H 3700 1700 50  0001 C CNN
+	1    3700 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D13
+U 1 1 61045672
+P 3500 1650
+F 0 "D13" V 3550 1550 50  0000 R BNN
+F 1 "D" V 3450 1550 50  0000 R BNN
+F 2 "Diode_SMD:D_SOD-123" H 3500 1650 50  0001 C CNN
+F 3 "~" H 3500 1650 50  0001 C CNN
+	1    3500 1650
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW10
+U 1 1 61045678
+P 3200 2050
+F 0 "SW10" H 3050 2250 50  0000 L BNN
+F 1 "SW_Push" H 3050 2150 50  0000 L BNN
+F 2 "keyswitches:Kailh_socket_MX" H 3200 2250 50  0001 C CNN
+F 3 "~" H 3200 2250 50  0001 C CNN
+	1    3200 2050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D10
+U 1 1 6104567E
+P 3000 2200
+F 0 "D10" V 3050 2100 50  0000 R BNN
+F 1 "D" V 2950 2100 50  0000 R BNN
+F 2 "Diode_SMD:D_SOD-123" H 3000 2200 50  0001 C CNN
+F 3 "~" H 3000 2200 50  0001 C CNN
+	1    3000 2200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW14
+U 1 1 61045684
+P 3700 2050
+F 0 "SW14" H 3550 2250 50  0000 L BNN
+F 1 "SW_Push" H 3550 2150 50  0000 L BNN
+F 2 "keyswitches:Kailh_socket_MX" H 3700 2250 50  0001 C CNN
+F 3 "~" H 3700 2250 50  0001 C CNN
+	1    3700 2050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D14
+U 1 1 6104568A
+P 3500 2200
+F 0 "D14" V 3550 2100 50  0000 R BNN
+F 1 "D" V 3450 2100 50  0000 R BNN
+F 2 "Diode_SMD:D_SOD-123" H 3500 2200 50  0001 C CNN
+F 3 "~" H 3500 2200 50  0001 C CNN
+	1    3500 2200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW17
+U 1 1 6104813C
+P 4200 1500
+F 0 "SW17" H 4050 1700 50  0000 L BNN
+F 1 "SW_Push" H 4050 1600 50  0000 L BNN
+F 2 "keyswitches:Kailh_socket_MX" H 4200 1700 50  0001 C CNN
+F 3 "~" H 4200 1700 50  0001 C CNN
+	1    4200 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D17
+U 1 1 61048142
+P 4000 1650
+F 0 "D17" V 4050 1550 50  0000 R BNN
+F 1 "D" V 3950 1550 50  0000 R BNN
+F 2 "Diode_SMD:D_SOD-123" H 4000 1650 50  0001 C CNN
+F 3 "~" H 4000 1650 50  0001 C CNN
+	1    4000 1650
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW18
+U 1 1 61048148
+P 4200 2050
+F 0 "SW18" H 4050 2250 50  0000 L BNN
+F 1 "SW_Push" H 4050 2150 50  0000 L BNN
+F 2 "keyswitches:Kailh_socket_MX" H 4200 2250 50  0001 C CNN
+F 3 "~" H 4200 2250 50  0001 C CNN
+	1    4200 2050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D18
+U 1 1 6104814E
+P 4000 2200
+F 0 "D18" V 4050 2100 50  0000 R BNN
+F 1 "D" V 3950 2100 50  0000 R BNN
+F 2 "Diode_SMD:D_SOD-123" H 4000 2200 50  0001 C CNN
+F 3 "~" H 4000 2200 50  0001 C CNN
+	1    4000 2200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW3
+U 1 1 610531DA
+P 2200 2600
+F 0 "SW3" H 2050 2800 50  0000 L BNN
+F 1 "SW_Push" H 2050 2700 50  0000 L BNN
+F 2 "keyswitches:Kailh_socket_MX" H 2200 2800 50  0001 C CNN
+F 3 "~" H 2200 2800 50  0001 C CNN
+	1    2200 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D3
+U 1 1 610531E0
+P 2000 2750
+F 0 "D3" V 2050 2650 50  0000 R BNN
+F 1 "D" V 1950 2650 50  0000 R BNN
+F 2 "Diode_SMD:D_SOD-123" H 2000 2750 50  0001 C CNN
+F 3 "~" H 2000 2750 50  0001 C CNN
+	1    2000 2750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW7
+U 1 1 610531E6
+P 2700 2600
+F 0 "SW7" H 2550 2800 50  0000 L BNN
+F 1 "SW_Push" H 2550 2700 50  0000 L BNN
+F 2 "keyswitches:Kailh_socket_MX" H 2700 2800 50  0001 C CNN
+F 3 "~" H 2700 2800 50  0001 C CNN
+	1    2700 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D7
+U 1 1 610531EC
+P 2500 2750
+F 0 "D7" V 2550 2650 50  0000 R BNN
+F 1 "D" V 2450 2650 50  0000 R BNN
+F 2 "Diode_SMD:D_SOD-123" H 2500 2750 50  0001 C CNN
+F 3 "~" H 2500 2750 50  0001 C CNN
+	1    2500 2750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW4
+U 1 1 610531F2
+P 2200 3150
+F 0 "SW4" H 2050 3350 50  0000 L BNN
+F 1 "SW_Push" H 2050 3250 50  0000 L BNN
+F 2 "keyswitches:Kailh_socket_MX" H 2200 3350 50  0001 C CNN
+F 3 "~" H 2200 3350 50  0001 C CNN
+	1    2200 3150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D4
+U 1 1 610531F8
+P 2000 3300
+F 0 "D4" V 2050 3200 50  0000 R BNN
+F 1 "D" V 1950 3200 50  0000 R BNN
+F 2 "Diode_SMD:D_SOD-123" H 2000 3300 50  0001 C CNN
+F 3 "~" H 2000 3300 50  0001 C CNN
+	1    2000 3300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW8
+U 1 1 610531FE
+P 2700 3150
+F 0 "SW8" H 2550 3350 50  0000 L BNN
+F 1 "SW_Push" H 2550 3250 50  0000 L BNN
+F 2 "keyswitches:Kailh_socket_MX" H 2700 3350 50  0001 C CNN
+F 3 "~" H 2700 3350 50  0001 C CNN
+	1    2700 3150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D8
+U 1 1 61053204
+P 2500 3300
+F 0 "D8" V 2550 3200 50  0000 R BNN
+F 1 "D" V 2450 3200 50  0000 R BNN
+F 2 "Diode_SMD:D_SOD-123" H 2500 3300 50  0001 C CNN
+F 3 "~" H 2500 3300 50  0001 C CNN
+	1    2500 3300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW11
+U 1 1 6105320A
+P 3200 2600
+F 0 "SW11" H 3050 2800 50  0000 L BNN
+F 1 "SW_Push" H 3050 2700 50  0000 L BNN
+F 2 "keyswitches:Kailh_socket_MX" H 3200 2800 50  0001 C CNN
+F 3 "~" H 3200 2800 50  0001 C CNN
+	1    3200 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D11
+U 1 1 61053210
+P 3000 2750
+F 0 "D11" V 3050 2650 50  0000 R BNN
+F 1 "D" V 2950 2650 50  0000 R BNN
+F 2 "Diode_SMD:D_SOD-123" H 3000 2750 50  0001 C CNN
+F 3 "~" H 3000 2750 50  0001 C CNN
+	1    3000 2750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW15
+U 1 1 61053216
+P 3700 2600
+F 0 "SW15" H 3550 2800 50  0000 L BNN
+F 1 "SW_Push" H 3550 2700 50  0000 L BNN
+F 2 "keyswitches:Kailh_socket_MX" H 3700 2800 50  0001 C CNN
+F 3 "~" H 3700 2800 50  0001 C CNN
+	1    3700 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D15
+U 1 1 6105321C
+P 3500 2750
+F 0 "D15" V 3550 2650 50  0000 R BNN
+F 1 "D" V 3450 2650 50  0000 R BNN
+F 2 "Diode_SMD:D_SOD-123" H 3500 2750 50  0001 C CNN
+F 3 "~" H 3500 2750 50  0001 C CNN
+	1    3500 2750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW12
+U 1 1 61053222
+P 3200 3150
+F 0 "SW12" H 3050 3350 50  0000 L BNN
+F 1 "SW_Push" H 3050 3250 50  0000 L BNN
+F 2 "keyswitches:Kailh_socket_MX" H 3200 3350 50  0001 C CNN
+F 3 "~" H 3200 3350 50  0001 C CNN
+	1    3200 3150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D12
+U 1 1 61053228
+P 3000 3300
+F 0 "D12" V 3050 3200 50  0000 R BNN
+F 1 "D" V 2950 3200 50  0000 R BNN
+F 2 "Diode_SMD:D_SOD-123" H 3000 3300 50  0001 C CNN
+F 3 "~" H 3000 3300 50  0001 C CNN
+	1    3000 3300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW16
+U 1 1 6105322E
+P 3700 3150
+F 0 "SW16" H 3550 3350 50  0000 L BNN
+F 1 "SW_Push" H 3550 3250 50  0000 L BNN
+F 2 "keyswitches:Kailh_socket_MX" H 3700 3350 50  0001 C CNN
+F 3 "~" H 3700 3350 50  0001 C CNN
+	1    3700 3150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D16
+U 1 1 61053234
+P 3500 3300
+F 0 "D16" V 3550 3200 50  0000 R BNN
+F 1 "D" V 3450 3200 50  0000 R BNN
+F 2 "Diode_SMD:D_SOD-123" H 3500 3300 50  0001 C CNN
+F 3 "~" H 3500 3300 50  0001 C CNN
+	1    3500 3300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW19
+U 1 1 6105323A
+P 4200 2600
+F 0 "SW19" H 4050 2800 50  0000 L BNN
+F 1 "SW_Push" H 4050 2700 50  0000 L BNN
+F 2 "keyswitches:Kailh_socket_MX" H 4200 2800 50  0001 C CNN
+F 3 "~" H 4200 2800 50  0001 C CNN
+	1    4200 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D19
+U 1 1 61053240
+P 4000 2750
+F 0 "D19" V 4050 2650 50  0000 R BNN
+F 1 "D" V 3950 2650 50  0000 R BNN
+F 2 "Diode_SMD:D_SOD-123" H 4000 2750 50  0001 C CNN
+F 3 "~" H 4000 2750 50  0001 C CNN
+	1    4000 2750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW20
+U 1 1 61053246
+P 4200 3150
+F 0 "SW20" H 4050 3350 50  0000 L BNN
+F 1 "SW_Push" H 4050 3250 50  0000 L BNN
+F 2 "keyswitches:Kailh_socket_MX" H 4200 3350 50  0001 C CNN
+F 3 "~" H 4200 3350 50  0001 C CNN
+	1    4200 3150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D20
+U 1 1 6105324C
+P 4000 3300
+F 0 "D20" V 4050 3200 50  0000 R BNN
+F 1 "D" V 3950 3200 50  0000 R BNN
+F 2 "Diode_SMD:D_SOD-123" H 4000 3300 50  0001 C CNN
+F 3 "~" H 4000 3300 50  0001 C CNN
+	1    4000 3300
+	0    -1   -1   0   
+$EndComp
+Text GLabel 2400 1300 1    50   Input ~ 0
+col0
+Text GLabel 2900 1300 1    50   Input ~ 0
+col1
+Text GLabel 3400 1300 1    50   Input ~ 0
+col2
+Text GLabel 3900 1300 1    50   Input ~ 0
+col3
+Text GLabel 4400 1300 1    50   Input ~ 0
+col4
+Wire Wire Line
+	4400 1300 4400 1500
+Wire Wire Line
+	4400 2050 4400 1500
+Connection ~ 4400 1500
+Wire Wire Line
+	4400 2600 4400 2050
+Connection ~ 4400 2050
+Wire Wire Line
+	4400 3150 4400 2600
+Connection ~ 4400 2600
+Wire Wire Line
+	3900 3150 3900 2600
+Wire Wire Line
+	3900 1300 3900 1500
+Wire Wire Line
+	3900 1500 3900 2050
+Connection ~ 3900 1500
+Wire Wire Line
+	3900 2050 3900 2600
+Connection ~ 3900 2050
+Connection ~ 3900 2600
+Wire Wire Line
+	3400 3150 3400 2600
+Wire Wire Line
+	3400 2600 3400 2050
+Connection ~ 3400 2600
+Wire Wire Line
+	3400 1500 3400 2050
+Connection ~ 3400 2050
+Wire Wire Line
+	3400 1500 3400 1300
+Connection ~ 3400 1500
+Wire Wire Line
+	2900 1300 2900 1500
+Wire Wire Line
+	2900 1500 2900 2050
+Connection ~ 2900 1500
+Wire Wire Line
+	2900 2050 2900 2600
+Connection ~ 2900 2050
+Wire Wire Line
+	2900 2600 2900 3150
+Connection ~ 2900 2600
+Wire Wire Line
+	2400 1300 2400 1500
+Wire Wire Line
+	2400 1500 2400 2050
+Connection ~ 2400 1500
+Wire Wire Line
+	2400 2050 2400 2600
+Connection ~ 2400 2050
+Wire Wire Line
+	2400 2600 2400 3150
+Connection ~ 2400 2600
+Wire Wire Line
+	2000 1800 2500 1800
+Wire Wire Line
+	2500 1800 3000 1800
+Connection ~ 2500 1800
+Wire Wire Line
+	3000 1800 3500 1800
+Connection ~ 3000 1800
+Wire Wire Line
+	3500 1800 4000 1800
+Connection ~ 3500 1800
+Wire Wire Line
+	2000 2350 2500 2350
+Wire Wire Line
+	2500 2350 3000 2350
+Connection ~ 2500 2350
+Wire Wire Line
+	3000 2350 3500 2350
+Connection ~ 3000 2350
+Wire Wire Line
+	3500 2350 4000 2350
+Connection ~ 3500 2350
+Wire Wire Line
+	2000 2900 2500 2900
+Wire Wire Line
+	2500 2900 3000 2900
+Connection ~ 2500 2900
+Wire Wire Line
+	3000 2900 3500 2900
+Connection ~ 3000 2900
+Wire Wire Line
+	3500 2900 4000 2900
+Connection ~ 3500 2900
+Wire Wire Line
+	2000 3450 2500 3450
+Wire Wire Line
+	2500 3450 3000 3450
+Connection ~ 2500 3450
+Wire Wire Line
+	3000 3450 3500 3450
+Connection ~ 3000 3450
+Wire Wire Line
+	3500 3450 4000 3450
+Connection ~ 3500 3450
+Text GLabel 4500 1800 2    50   Input ~ 0
+row0
+Text GLabel 4500 2350 2    50   Input ~ 0
+row1
+Text GLabel 4500 2900 2    50   Input ~ 0
+row2
+Text GLabel 4500 3450 2    50   Input ~ 0
+row3
+Wire Wire Line
+	4000 1800 4500 1800
+Connection ~ 4000 1800
+Wire Wire Line
+	4000 2900 4500 2900
+Connection ~ 4000 2900
+Connection ~ 4000 3450
+Wire Wire Line
+	4000 2350 4500 2350
+Connection ~ 4000 2350
+$Comp
+L Switch:SW_Push SW21
+U 1 1 610AD68C
+P 5150 1500
+F 0 "SW21" H 5000 1700 50  0000 L BNN
+F 1 "SW_Push" H 5000 1600 50  0000 L BNN
+F 2 "keyswitches:Kailh_socket_MX" H 5150 1700 50  0001 C CNN
+F 3 "~" H 5150 1700 50  0001 C CNN
+	1    5150 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D21
+U 1 1 610AD692
+P 4950 1650
+F 0 "D21" V 5000 1550 50  0000 R BNN
+F 1 "D" V 4900 1550 50  0000 R BNN
+F 2 "Diode_SMD:D_SOD-123" H 4950 1650 50  0001 C CNN
+F 3 "~" H 4950 1650 50  0001 C CNN
+	1    4950 1650
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW25
+U 1 1 610AD698
+P 5650 1500
+F 0 "SW25" H 5500 1700 50  0000 L BNN
+F 1 "SW_Push" H 5500 1600 50  0000 L BNN
+F 2 "keyswitches:Kailh_socket_MX" H 5650 1700 50  0001 C CNN
+F 3 "~" H 5650 1700 50  0001 C CNN
+	1    5650 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D25
+U 1 1 610AD69E
+P 5450 1650
+F 0 "D25" V 5500 1550 50  0000 R BNN
+F 1 "D" V 5400 1550 50  0000 R BNN
+F 2 "Diode_SMD:D_SOD-123" H 5450 1650 50  0001 C CNN
+F 3 "~" H 5450 1650 50  0001 C CNN
+	1    5450 1650
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW22
+U 1 1 610AD6A4
+P 5150 2050
+F 0 "SW22" H 5000 2250 50  0000 L BNN
+F 1 "SW_Push" H 5000 2150 50  0000 L BNN
+F 2 "keyswitches:Kailh_socket_MX" H 5150 2250 50  0001 C CNN
+F 3 "~" H 5150 2250 50  0001 C CNN
+	1    5150 2050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D22
+U 1 1 610AD6AA
+P 4950 2200
+F 0 "D22" V 5000 2100 50  0000 R BNN
+F 1 "D" V 4900 2100 50  0000 R BNN
+F 2 "Diode_SMD:D_SOD-123" H 4950 2200 50  0001 C CNN
+F 3 "~" H 4950 2200 50  0001 C CNN
+	1    4950 2200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW26
+U 1 1 610AD6B0
+P 5650 2050
+F 0 "SW26" H 5500 2250 50  0000 L BNN
+F 1 "SW_Push" H 5500 2150 50  0000 L BNN
+F 2 "keyswitches:Kailh_socket_MX" H 5650 2250 50  0001 C CNN
+F 3 "~" H 5650 2250 50  0001 C CNN
+	1    5650 2050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D26
+U 1 1 610AD6B6
+P 5450 2200
+F 0 "D26" V 5500 2100 50  0000 R BNN
+F 1 "D" V 5400 2100 50  0000 R BNN
+F 2 "Diode_SMD:D_SOD-123" H 5450 2200 50  0001 C CNN
+F 3 "~" H 5450 2200 50  0001 C CNN
+	1    5450 2200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW29
+U 1 1 610AD6BC
+P 6150 1500
+F 0 "SW29" H 6000 1700 50  0000 L BNN
+F 1 "SW_Push" H 6000 1600 50  0000 L BNN
+F 2 "keyswitches:Kailh_socket_MX" H 6150 1700 50  0001 C CNN
+F 3 "~" H 6150 1700 50  0001 C CNN
+	1    6150 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D29
+U 1 1 610AD6C2
+P 5950 1650
+F 0 "D29" V 6000 1550 50  0000 R BNN
+F 1 "D" V 5900 1550 50  0000 R BNN
+F 2 "Diode_SMD:D_SOD-123" H 5950 1650 50  0001 C CNN
+F 3 "~" H 5950 1650 50  0001 C CNN
+	1    5950 1650
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW33
+U 1 1 610AD6C8
+P 6650 1500
+F 0 "SW33" H 6500 1700 50  0000 L BNN
+F 1 "SW_Push" H 6500 1600 50  0000 L BNN
+F 2 "keyswitches:Kailh_socket_MX" H 6650 1700 50  0001 C CNN
+F 3 "~" H 6650 1700 50  0001 C CNN
+	1    6650 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D33
+U 1 1 610AD6CE
+P 6450 1650
+F 0 "D33" V 6500 1550 50  0000 R BNN
+F 1 "D" V 6400 1550 50  0000 R BNN
+F 2 "Diode_SMD:D_SOD-123" H 6450 1650 50  0001 C CNN
+F 3 "~" H 6450 1650 50  0001 C CNN
+	1    6450 1650
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW30
+U 1 1 610AD6D4
+P 6150 2050
+F 0 "SW30" H 6000 2250 50  0000 L BNN
+F 1 "SW_Push" H 6000 2150 50  0000 L BNN
+F 2 "keyswitches:Kailh_socket_MX" H 6150 2250 50  0001 C CNN
+F 3 "~" H 6150 2250 50  0001 C CNN
+	1    6150 2050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D30
+U 1 1 610AD6DA
+P 5950 2200
+F 0 "D30" V 6000 2100 50  0000 R BNN
+F 1 "D" V 5900 2100 50  0000 R BNN
+F 2 "Diode_SMD:D_SOD-123" H 5950 2200 50  0001 C CNN
+F 3 "~" H 5950 2200 50  0001 C CNN
+	1    5950 2200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW34
+U 1 1 610AD6E0
+P 6650 2050
+F 0 "SW34" H 6500 2250 50  0000 L BNN
+F 1 "SW_Push" H 6500 2150 50  0000 L BNN
+F 2 "keyswitches:Kailh_socket_MX" H 6650 2250 50  0001 C CNN
+F 3 "~" H 6650 2250 50  0001 C CNN
+	1    6650 2050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D34
+U 1 1 610AD6E6
+P 6450 2200
+F 0 "D34" V 6500 2100 50  0000 R BNN
+F 1 "D" V 6400 2100 50  0000 R BNN
+F 2 "Diode_SMD:D_SOD-123" H 6450 2200 50  0001 C CNN
+F 3 "~" H 6450 2200 50  0001 C CNN
+	1    6450 2200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW37
+U 1 1 610AD6EC
+P 7150 1500
+F 0 "SW37" H 7000 1700 50  0000 L BNN
+F 1 "SW_Push" H 7000 1600 50  0000 L BNN
+F 2 "keyswitches:Kailh_socket_MX" H 7150 1700 50  0001 C CNN
+F 3 "~" H 7150 1700 50  0001 C CNN
+	1    7150 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D37
+U 1 1 610AD6F2
+P 6950 1650
+F 0 "D37" V 7000 1550 50  0000 R BNN
+F 1 "D" V 6900 1550 50  0000 R BNN
+F 2 "Diode_SMD:D_SOD-123" H 6950 1650 50  0001 C CNN
+F 3 "~" H 6950 1650 50  0001 C CNN
+	1    6950 1650
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW38
+U 1 1 610AD6F8
+P 7150 2050
+F 0 "SW38" H 7000 2250 50  0000 L BNN
+F 1 "SW_Push" H 7000 2150 50  0000 L BNN
+F 2 "keyswitches:Kailh_socket_MX" H 7150 2250 50  0001 C CNN
+F 3 "~" H 7150 2250 50  0001 C CNN
+	1    7150 2050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D38
+U 1 1 610AD6FE
+P 6950 2200
+F 0 "D38" V 7000 2100 50  0000 R BNN
+F 1 "D" V 6900 2100 50  0000 R BNN
+F 2 "Diode_SMD:D_SOD-123" H 6950 2200 50  0001 C CNN
+F 3 "~" H 6950 2200 50  0001 C CNN
+	1    6950 2200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW23
+U 1 1 610AD704
+P 5150 2600
+F 0 "SW23" H 5000 2800 50  0000 L BNN
+F 1 "SW_Push" H 5000 2700 50  0000 L BNN
+F 2 "keyswitches:Kailh_socket_MX" H 5150 2800 50  0001 C CNN
+F 3 "~" H 5150 2800 50  0001 C CNN
+	1    5150 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D23
+U 1 1 610AD70A
+P 4950 2750
+F 0 "D23" V 5000 2650 50  0000 R BNN
+F 1 "D" V 4900 2650 50  0000 R BNN
+F 2 "Diode_SMD:D_SOD-123" H 4950 2750 50  0001 C CNN
+F 3 "~" H 4950 2750 50  0001 C CNN
+	1    4950 2750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW27
+U 1 1 610AD710
+P 5650 2600
+F 0 "SW27" H 5500 2800 50  0000 L BNN
+F 1 "SW_Push" H 5500 2700 50  0000 L BNN
+F 2 "keyswitches:Kailh_socket_MX" H 5650 2800 50  0001 C CNN
+F 3 "~" H 5650 2800 50  0001 C CNN
+	1    5650 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D27
+U 1 1 610AD716
+P 5450 2750
+F 0 "D27" V 5500 2650 50  0000 R BNN
+F 1 "D" V 5400 2650 50  0000 R BNN
+F 2 "Diode_SMD:D_SOD-123" H 5450 2750 50  0001 C CNN
+F 3 "~" H 5450 2750 50  0001 C CNN
+	1    5450 2750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW24
+U 1 1 610AD71C
+P 5150 3150
+F 0 "SW24" H 5000 3350 50  0000 L BNN
+F 1 "SW_Push" H 5000 3250 50  0000 L BNN
+F 2 "keyswitches:Kailh_socket_MX" H 5150 3350 50  0001 C CNN
+F 3 "~" H 5150 3350 50  0001 C CNN
+	1    5150 3150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D24
+U 1 1 610AD722
+P 4950 3300
+F 0 "D24" V 5000 3200 50  0000 R BNN
+F 1 "D" V 4900 3200 50  0000 R BNN
+F 2 "Diode_SMD:D_SOD-123" H 4950 3300 50  0001 C CNN
+F 3 "~" H 4950 3300 50  0001 C CNN
+	1    4950 3300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW28
+U 1 1 610AD728
+P 5650 3150
+F 0 "SW28" H 5500 3350 50  0000 L BNN
+F 1 "SW_Push" H 5500 3250 50  0000 L BNN
+F 2 "keyswitches:Kailh_socket_MX" H 5650 3350 50  0001 C CNN
+F 3 "~" H 5650 3350 50  0001 C CNN
+	1    5650 3150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D28
+U 1 1 610AD72E
+P 5450 3300
+F 0 "D28" V 5500 3200 50  0000 R BNN
+F 1 "D" V 5400 3200 50  0000 R BNN
+F 2 "Diode_SMD:D_SOD-123" H 5450 3300 50  0001 C CNN
+F 3 "~" H 5450 3300 50  0001 C CNN
+	1    5450 3300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW31
+U 1 1 610AD734
+P 6150 2600
+F 0 "SW31" H 6000 2800 50  0000 L BNN
+F 1 "SW_Push" H 6000 2700 50  0000 L BNN
+F 2 "keyswitches:Kailh_socket_MX" H 6150 2800 50  0001 C CNN
+F 3 "~" H 6150 2800 50  0001 C CNN
+	1    6150 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D31
+U 1 1 610AD73A
+P 5950 2750
+F 0 "D31" V 6000 2650 50  0000 R BNN
+F 1 "D" V 5900 2650 50  0000 R BNN
+F 2 "Diode_SMD:D_SOD-123" H 5950 2750 50  0001 C CNN
+F 3 "~" H 5950 2750 50  0001 C CNN
+	1    5950 2750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW35
+U 1 1 610AD740
+P 6650 2600
+F 0 "SW35" H 6500 2800 50  0000 L BNN
+F 1 "SW_Push" H 6500 2700 50  0000 L BNN
+F 2 "keyswitches:Kailh_socket_MX" H 6650 2800 50  0001 C CNN
+F 3 "~" H 6650 2800 50  0001 C CNN
+	1    6650 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D35
+U 1 1 610AD746
+P 6450 2750
+F 0 "D35" V 6500 2650 50  0000 R BNN
+F 1 "D" V 6400 2650 50  0000 R BNN
+F 2 "Diode_SMD:D_SOD-123" H 6450 2750 50  0001 C CNN
+F 3 "~" H 6450 2750 50  0001 C CNN
+	1    6450 2750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW32
+U 1 1 610AD74C
+P 6150 3150
+F 0 "SW32" H 6000 3350 50  0000 L BNN
+F 1 "SW_Push" H 6000 3250 50  0000 L BNN
+F 2 "keyswitches:Kailh_socket_MX" H 6150 3350 50  0001 C CNN
+F 3 "~" H 6150 3350 50  0001 C CNN
+	1    6150 3150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D32
+U 1 1 610AD752
+P 5950 3300
+F 0 "D32" V 6000 3200 50  0000 R BNN
+F 1 "D" V 5900 3200 50  0000 R BNN
+F 2 "Diode_SMD:D_SOD-123" H 5950 3300 50  0001 C CNN
+F 3 "~" H 5950 3300 50  0001 C CNN
+	1    5950 3300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW36
+U 1 1 610AD758
+P 6650 3150
+F 0 "SW36" H 6500 3350 50  0000 L BNN
+F 1 "SW_Push" H 6500 3250 50  0000 L BNN
+F 2 "keyswitches:Kailh_socket_MX" H 6650 3350 50  0001 C CNN
+F 3 "~" H 6650 3350 50  0001 C CNN
+	1    6650 3150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D36
+U 1 1 610AD75E
+P 6450 3300
+F 0 "D36" V 6500 3200 50  0000 R BNN
+F 1 "D" V 6400 3200 50  0000 R BNN
+F 2 "Diode_SMD:D_SOD-123" H 6450 3300 50  0001 C CNN
+F 3 "~" H 6450 3300 50  0001 C CNN
+	1    6450 3300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW39
+U 1 1 610AD764
+P 7150 2600
+F 0 "SW39" H 7000 2800 50  0000 L BNN
+F 1 "SW_Push" H 7000 2700 50  0000 L BNN
+F 2 "keyswitches:Kailh_socket_MX" H 7150 2800 50  0001 C CNN
+F 3 "~" H 7150 2800 50  0001 C CNN
+	1    7150 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D39
+U 1 1 610AD76A
+P 6950 2750
+F 0 "D39" V 7000 2650 50  0000 R BNN
+F 1 "D" V 6900 2650 50  0000 R BNN
+F 2 "Diode_SMD:D_SOD-123" H 6950 2750 50  0001 C CNN
+F 3 "~" H 6950 2750 50  0001 C CNN
+	1    6950 2750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW40
+U 1 1 610AD770
+P 7150 3150
+F 0 "SW40" H 7000 3350 50  0000 L BNN
+F 1 "SW_Push" H 7000 3250 50  0000 L BNN
+F 2 "keyswitches:Kailh_socket_MX" H 7150 3350 50  0001 C CNN
+F 3 "~" H 7150 3350 50  0001 C CNN
+	1    7150 3150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D40
+U 1 1 610AD776
+P 6950 3300
+F 0 "D40" V 7000 3200 50  0000 R BNN
+F 1 "D" V 6900 3200 50  0000 R BNN
+F 2 "Diode_SMD:D_SOD-123" H 6950 3300 50  0001 C CNN
+F 3 "~" H 6950 3300 50  0001 C CNN
+	1    6950 3300
+	0    -1   -1   0   
+$EndComp
+Text GLabel 5350 1300 1    50   Input ~ 0
+col0
+Text GLabel 5850 1300 1    50   Input ~ 0
+col1
+Text GLabel 6350 1300 1    50   Input ~ 0
+col2
+Text GLabel 6850 1300 1    50   Input ~ 0
+col3
+Text GLabel 7350 1300 1    50   Input ~ 0
+col4
+Wire Wire Line
+	7350 1300 7350 1500
+Wire Wire Line
+	7350 2050 7350 1500
+Connection ~ 7350 1500
+Wire Wire Line
+	7350 2600 7350 2050
+Connection ~ 7350 2050
+Wire Wire Line
+	7350 3150 7350 2600
+Connection ~ 7350 2600
+Wire Wire Line
+	6850 3150 6850 2600
+Wire Wire Line
+	6850 1300 6850 1500
+Wire Wire Line
+	6850 1500 6850 2050
+Connection ~ 6850 1500
+Wire Wire Line
+	6850 2050 6850 2600
+Connection ~ 6850 2050
+Connection ~ 6850 2600
+Wire Wire Line
+	6350 3150 6350 2600
+Wire Wire Line
+	6350 2600 6350 2050
+Connection ~ 6350 2600
+Wire Wire Line
+	6350 1500 6350 2050
+Connection ~ 6350 2050
+Wire Wire Line
+	6350 1500 6350 1300
+Connection ~ 6350 1500
+Wire Wire Line
+	5850 1300 5850 1500
+Wire Wire Line
+	5850 1500 5850 2050
+Connection ~ 5850 1500
+Wire Wire Line
+	5850 2050 5850 2600
+Connection ~ 5850 2050
+Wire Wire Line
+	5850 2600 5850 3150
+Connection ~ 5850 2600
+Wire Wire Line
+	5350 1300 5350 1500
+Wire Wire Line
+	5350 1500 5350 2050
+Connection ~ 5350 1500
+Wire Wire Line
+	5350 2050 5350 2600
+Connection ~ 5350 2050
+Wire Wire Line
+	5350 2600 5350 3150
+Connection ~ 5350 2600
+Wire Wire Line
+	4950 1800 5450 1800
+Wire Wire Line
+	5450 1800 5950 1800
+Connection ~ 5450 1800
+Wire Wire Line
+	5950 1800 6450 1800
+Connection ~ 5950 1800
+Wire Wire Line
+	6450 1800 6950 1800
+Connection ~ 6450 1800
+Wire Wire Line
+	4950 2350 5450 2350
+Wire Wire Line
+	5450 2350 5950 2350
+Connection ~ 5450 2350
+Wire Wire Line
+	5950 2350 6450 2350
+Connection ~ 5950 2350
+Wire Wire Line
+	6450 2350 6950 2350
+Connection ~ 6450 2350
+Wire Wire Line
+	4950 2900 5450 2900
+Wire Wire Line
+	5450 2900 5950 2900
+Connection ~ 5450 2900
+Wire Wire Line
+	5950 2900 6450 2900
+Connection ~ 5950 2900
+Wire Wire Line
+	6450 2900 6950 2900
+Connection ~ 6450 2900
+Wire Wire Line
+	4950 3450 5450 3450
+Wire Wire Line
+	5450 3450 5950 3450
+Connection ~ 5450 3450
+Wire Wire Line
+	5950 3450 6450 3450
+Connection ~ 5950 3450
+Wire Wire Line
+	6450 3450 6950 3450
+Connection ~ 6450 3450
+Text GLabel 7450 1800 2    50   Input ~ 0
+row0
+Text GLabel 7450 2350 2    50   Input ~ 0
+row1
+Text GLabel 7450 2900 2    50   Input ~ 0
+row2
+Text GLabel 7450 3450 2    50   Input ~ 0
+row3
+Wire Wire Line
+	6950 1800 7450 1800
+Connection ~ 6950 1800
+Wire Wire Line
+	6950 2900 7450 2900
+Connection ~ 6950 2900
+Connection ~ 6950 3450
+Wire Wire Line
+	6950 2350 7450 2350
+Connection ~ 6950 2350
+$Comp
+L Connector:Conn_01x05_Male J1
+U 1 1 610B1A5B
+P 8100 1700
+F 0 "J1" H 8208 2081 50  0000 C CNN
+F 1 "Conn_01x05_Male" H 8208 1990 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical" H 8100 1700 50  0001 C CNN
+F 3 "~" H 8100 1700 50  0001 C CNN
+	1    8100 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x04_Male J2
+U 1 1 610B48D5
+P 8100 2350
+F 0 "J2" H 8208 2631 50  0000 C CNN
+F 1 "Conn_01x04_Male" H 8208 2540 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" H 8100 2350 50  0001 C CNN
+F 3 "~" H 8100 2350 50  0001 C CNN
+	1    8100 2350
+	1    0    0    -1  
+$EndComp
+Text GLabel 8300 1500 2    50   Input ~ 0
+col0
+Text GLabel 8300 1600 2    50   Input ~ 0
+col1
+Text GLabel 8300 1700 2    50   Input ~ 0
+col2
+Text GLabel 8300 1800 2    50   Input ~ 0
+col3
+Text GLabel 8300 1900 2    50   Input ~ 0
+col4
+Text GLabel 8300 2250 2    50   Input ~ 0
+row0
+Text GLabel 8300 2350 2    50   Input ~ 0
+row1
+Text GLabel 8300 2450 2    50   Input ~ 0
+row2
+Text GLabel 8300 2550 2    50   Input ~ 0
+row3
+Wire Wire Line
+	6950 3450 7450 3450
+Wire Wire Line
+	4000 3450 4500 3450
+$EndSCHEMATC

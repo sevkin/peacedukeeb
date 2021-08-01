@@ -2,3 +2,9 @@
 .vscode
 out/
 stuff/
+pcb/pcb.net
+pcb/pcb.ses
+pcb/pcb.kicad_pcb-bak
+pcb/pcb.bin
+pcb/pcb.dsn
+pcb/fp-info-cache
