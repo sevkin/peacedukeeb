@@ -1,0 +1,3 @@
+use <../zolotce.scad>
+
+top();
