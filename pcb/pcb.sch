@@ -1130,13 +1130,13 @@ Wire Wire Line
 	6450 3450 6950 3450
 Connection ~ 6450 3450
 Text GLabel 7450 1800 2    50   Input ~ 0
-row0
+row4
 Text GLabel 7450 2350 2    50   Input ~ 0
-row1
+row5
 Text GLabel 7450 2900 2    50   Input ~ 0
-row2
+row6
 Text GLabel 7450 3450 2    50   Input ~ 0
-row3
+row7
 Wire Wire Line
 	6950 1800 7450 1800
 Connection ~ 6950 1800
@@ -1179,16 +1179,60 @@ Text GLabel 8300 1800 2    50   Input ~ 0
 col3
 Text GLabel 8300 1900 2    50   Input ~ 0
 col4
-Text GLabel 8300 2250 2    50   Input ~ 0
+Text GLabel 8550 2250 2    50   Input ~ 0
 row0
-Text GLabel 8300 2350 2    50   Input ~ 0
+Text GLabel 8550 2350 2    50   Input ~ 0
 row1
-Text GLabel 8300 2450 2    50   Input ~ 0
+Text GLabel 8550 2450 2    50   Input ~ 0
 row2
-Text GLabel 8300 2550 2    50   Input ~ 0
+Text GLabel 8550 2550 2    50   Input ~ 0
 row3
 Wire Wire Line
 	6950 3450 7450 3450
 Wire Wire Line
 	4000 3450 4500 3450
+Text GLabel 8550 2700 2    50   Input ~ 0
+row4
+Text GLabel 8550 2800 2    50   Input ~ 0
+row5
+Text GLabel 8550 2900 2    50   Input ~ 0
+row6
+Text GLabel 8550 3000 2    50   Input ~ 0
+row7
+Wire Wire Line
+	8300 2250 8350 2250
+Wire Wire Line
+	8350 2250 8350 2700
+Wire Wire Line
+	8350 2700 8550 2700
+Connection ~ 8350 2250
+Wire Wire Line
+	8350 2250 8550 2250
+Wire Wire Line
+	8300 2350 8400 2350
+Wire Wire Line
+	8400 2350 8400 2800
+Wire Wire Line
+	8400 2800 8550 2800
+Connection ~ 8400 2350
+Wire Wire Line
+	8400 2350 8550 2350
+Wire Wire Line
+	8300 2450 8450 2450
+Wire Wire Line
+	8450 2450 8450 2900
+Wire Wire Line
+	8450 2900 8550 2900
+Connection ~ 8450 2450
+Wire Wire Line
+	8450 2450 8550 2450
+Wire Wire Line
+	8300 2550 8500 2550
+Wire Wire Line
+	8500 2550 8500 3000
+Wire Wire Line
+	8500 3000 8550 3000
+Connection ~ 8500 2550
+Wire Wire Line
+	8500 2550 8550 2550
 $EndSCHEMATC
