@@ -1,0 +1,691 @@
+Cmp-Mod V01 Created by PcbNew   date = Пт 08 окт 2021 16:14:51
+
+BeginCmp
+TimeStamp = 60FFA089
+Path = 
+Reference = MH1;
+ValeurCmp = MountingHole_3.2mm_M3;
+IdModule  = MountingHole:MountingHole_3.2mm_M3;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FFA07B
+Path = 
+Reference = MH2;
+ValeurCmp = MountingHole_3.2mm_M3;
+IdModule  = MountingHole:MountingHole_3.2mm_M3;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FFA06D
+Path = 
+Reference = MH3;
+ValeurCmp = MountingHole_3.2mm_M3;
+IdModule  = MountingHole:MountingHole_3.2mm_M3;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FF9E37
+Path = 
+Reference = MH4;
+ValeurCmp = MountingHole_3.2mm_M3;
+IdModule  = MountingHole:MountingHole_3.2mm_M3;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FF9F5A
+Path = /610AD770
+Reference = SW40;
+ValeurCmp = SW_Push;
+IdModule  = keyswitches:Kailh_socket_MX;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FFB5F2
+Path = /610AD764
+Reference = SW39;
+ValeurCmp = SW_Push;
+IdModule  = keyswitches:Kailh_socket_MX;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FFB094
+Path = /610AD6F8
+Reference = SW38;
+ValeurCmp = SW_Push;
+IdModule  = keyswitches:Kailh_socket_MX;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FFB12D
+Path = /610AD6EC
+Reference = SW37;
+ValeurCmp = SW_Push;
+IdModule  = keyswitches:Kailh_socket_MX;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FFB1C9
+Path = /610AD758
+Reference = SW36;
+ValeurCmp = SW_Push;
+IdModule  = keyswitches:Kailh_socket_MX;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FFAFFB
+Path = /610AD740
+Reference = SW35;
+ValeurCmp = SW_Push;
+IdModule  = keyswitches:Kailh_socket_MX;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FFB68B
+Path = /610AD6E0
+Reference = SW34;
+ValeurCmp = SW_Push;
+IdModule  = keyswitches:Kailh_socket_MX;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FF9D14
+Path = /610AD6C8
+Reference = SW33;
+ValeurCmp = SW_Push;
+IdModule  = keyswitches:Kailh_socket_MX;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FF8D09
+Path = /610AD74C
+Reference = SW32;
+ValeurCmp = SW_Push;
+IdModule  = keyswitches:Kailh_socket_MX;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FF8E32
+Path = /610AD734
+Reference = SW31;
+ValeurCmp = SW_Push;
+IdModule  = keyswitches:Kailh_socket_MX;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FFB265
+Path = /610AD6D4
+Reference = SW30;
+ValeurCmp = SW_Push;
+IdModule  = keyswitches:Kailh_socket_MX;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FF9B5E
+Path = /610AD6BC
+Reference = SW29;
+ValeurCmp = SW_Push;
+IdModule  = keyswitches:Kailh_socket_MX;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FFAEC0
+Path = /610AD728
+Reference = SW28;
+ValeurCmp = SW_Push;
+IdModule  = keyswitches:Kailh_socket_MX;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FF964B
+Path = /610AD710
+Reference = SW27;
+ValeurCmp = SW_Push;
+IdModule  = keyswitches:Kailh_socket_MX;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FFA533
+Path = /610AD6B0
+Reference = SW26;
+ValeurCmp = SW_Push;
+IdModule  = keyswitches:Kailh_socket_MX;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FF9FF3
+Path = /610AD698
+Reference = SW25;
+ValeurCmp = SW_Push;
+IdModule  = keyswitches:Kailh_socket_MX;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FFA665
+Path = /610AD71C
+Reference = SW24;
+ValeurCmp = SW_Push;
+IdModule  = keyswitches:Kailh_socket_MX;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FFAE24
+Path = /610AD704
+Reference = SW23;
+ValeurCmp = SW_Push;
+IdModule  = keyswitches:Kailh_socket_MX;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FFAD7C
+Path = /610AD6A4
+Reference = SW22;
+ValeurCmp = SW_Push;
+IdModule  = keyswitches:Kailh_socket_MX;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FF8ED1
+Path = /610AD68C
+Reference = SW21;
+ValeurCmp = SW_Push;
+IdModule  = keyswitches:Kailh_socket_MX;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FFA176
+Path = /61053246
+Reference = SW20;
+ValeurCmp = SW_Push;
+IdModule  = keyswitches:Kailh_socket_MX;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FF9858
+Path = /6105323A
+Reference = SW19;
+ValeurCmp = SW_Push;
+IdModule  = keyswitches:Kailh_socket_MX;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FF9DFB
+Path = /61048148
+Reference = SW18;
+ValeurCmp = SW_Push;
+IdModule  = keyswitches:Kailh_socket_MX;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FFA8C0
+Path = /6104813C
+Reference = SW17;
+ValeurCmp = SW_Push;
+IdModule  = keyswitches:Kailh_socket_MX;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FFAF59
+Path = /6105322E
+Reference = SW16;
+ValeurCmp = SW_Push;
+IdModule  = keyswitches:Kailh_socket_MX;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FFAA13
+Path = /61053216
+Reference = SW15;
+ValeurCmp = SW_Push;
+IdModule  = keyswitches:Kailh_socket_MX;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FFAAAC
+Path = /61045684
+Reference = SW14;
+ValeurCmp = SW_Push;
+IdModule  = keyswitches:Kailh_socket_MX;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FFB559
+Path = /6104566C
+Reference = SW13;
+ValeurCmp = SW_Push;
+IdModule  = keyswitches:Kailh_socket_MX;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FFA5CC
+Path = /61053222
+Reference = SW12;
+ValeurCmp = SW_Push;
+IdModule  = keyswitches:Kailh_socket_MX;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FFA827
+Path = /6105320A
+Reference = SW11;
+ValeurCmp = SW_Push;
+IdModule  = keyswitches:Kailh_socket_MX;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FFA746
+Path = /61045678
+Reference = SW10;
+ValeurCmp = SW_Push;
+IdModule  = keyswitches:Kailh_socket_MX;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FFB41E
+Path = /61045660
+Reference = SW9;
+ValeurCmp = SW_Push;
+IdModule  = keyswitches:Kailh_socket_MX;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FF9B13
+Path = /610531FE
+Reference = SW8;
+ValeurCmp = SW_Push;
+IdModule  = keyswitches:Kailh_socket_MX;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FF972C
+Path = /610531E6
+Reference = SW7;
+ValeurCmp = SW_Push;
+IdModule  = keyswitches:Kailh_socket_MX;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FF9906
+Path = /610436D8
+Reference = SW6;
+ValeurCmp = SW_Push;
+IdModule  = keyswitches:Kailh_socket_MX;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FF8FFD
+Path = /61041828
+Reference = SW5;
+ValeurCmp = SW_Push;
+IdModule  = keyswitches:Kailh_socket_MX;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FF923A
+Path = /610531F2
+Reference = SW4;
+ValeurCmp = SW_Push;
+IdModule  = keyswitches:Kailh_socket_MX;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FFB4B7
+Path = /610531DA
+Reference = SW3;
+ValeurCmp = SW_Push;
+IdModule  = keyswitches:Kailh_socket_MX;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FF9C5D
+Path = /610436CC
+Reference = SW2;
+ValeurCmp = SW_Push;
+IdModule  = keyswitches:Kailh_socket_MX;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FFACCE
+Path = /6103A7BD
+Reference = SW1;
+ValeurCmp = SW_Push;
+IdModule  = keyswitches:Kailh_socket_MX;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FF9983
+Path = /610B48D5
+Reference = J2;
+ValeurCmp = Conn_01x04_Male;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FF9BFA
+Path = /610B1A5B
+Reference = J1;
+ValeurCmp = Conn_01x05_Male;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FFA9A4
+Path = /610AD776
+Reference = D40;
+ValeurCmp = D;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FFA284
+Path = /610AD76A
+Reference = D39;
+ValeurCmp = D;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FFA94D
+Path = /610AD6FE
+Reference = D38;
+ValeurCmp = D;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FFA6E3
+Path = /610AD6F2
+Reference = D37;
+ValeurCmp = D;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FFA7C4
+Path = /610AD75E
+Reference = D36;
+ValeurCmp = D;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FFA113
+Path = /610AD746
+Reference = D35;
+ValeurCmp = D;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FF9AFB
+Path = /610AD6E6
+Reference = D34;
+ValeurCmp = D;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FFA23C
+Path = /610AD6CE
+Reference = D33;
+ValeurCmp = D;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FF97AA
+Path = /610AD752
+Reference = D32;
+ValeurCmp = D;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FF97F2
+Path = /610AD73A
+Reference = D31;
+ValeurCmp = D;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FF99C9
+Path = /610AD6DA
+Reference = D30;
+ValeurCmp = D;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FF9AB3
+Path = /610AD6C2
+Reference = D29;
+ValeurCmp = D;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FF8F9A
+Path = /610AD72E
+Reference = D28;
+ValeurCmp = D;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FFB2E3
+Path = /610AD716
+Reference = D27;
+ValeurCmp = D;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FF8F4F
+Path = /610AD6B6
+Reference = D26;
+ValeurCmp = D;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FF96C9
+Path = /610AD69E
+Reference = D25;
+ValeurCmp = D;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FFABC0
+Path = /610AD722
+Reference = D24;
+ValeurCmp = D;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FF8D87
+Path = /610AD70A
+Reference = D23;
+ValeurCmp = D;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FF8DCF
+Path = /610AD6AA
+Reference = D22;
+ValeurCmp = D;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FF95E8
+Path = /610AD692
+Reference = D21;
+ValeurCmp = D;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FFA1F4
+Path = /6105324C
+Reference = D20;
+ValeurCmp = D;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FFB373
+Path = /61053240
+Reference = D19;
+ValeurCmp = D;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FFB32B
+Path = /6104814E
+Reference = D18;
+ValeurCmp = D;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FF9D92
+Path = /61048142
+Reference = D17;
+ValeurCmp = D;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FFA3BF
+Path = /61053234
+Reference = D16;
+ValeurCmp = D;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FFB3BB
+Path = /6105321C
+Reference = D15;
+ValeurCmp = D;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FF9ED0
+Path = /6104568A
+Reference = D14;
+ValeurCmp = D;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FF9E88
+Path = /61045672
+Reference = D13;
+ValeurCmp = D;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FFA497
+Path = /61053228
+Reference = D12;
+ValeurCmp = D;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FFA44F
+Path = /61053210
+Reference = D11;
+ValeurCmp = D;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FFA407
+Path = /6104567E
+Reference = D10;
+ValeurCmp = D;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FFAC5C
+Path = /61045666
+Reference = D9;
+ValeurCmp = D;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FFAC14
+Path = /61053204
+Reference = D8;
+ValeurCmp = D;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FFAB78
+Path = /610531EC
+Reference = D7;
+ValeurCmp = D;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FFAB30
+Path = /610436DE
+Reference = D6;
+ValeurCmp = D;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FFA35C
+Path = /6104182E
+Reference = D5;
+ValeurCmp = D;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FFA314
+Path = /610531F8
+Reference = D4;
+ValeurCmp = D;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FFA2CC
+Path = /610531E0
+Reference = D3;
+ValeurCmp = D;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FFA0C8
+Path = /610436D2
+Reference = D2;
+ValeurCmp = D;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 60FFA080
+Path = /6103B5CA
+Reference = D1;
+ValeurCmp = D;
+IdModule  = Diode_SMD:D_SOD-123;
+EndCmp
+
+EndListe

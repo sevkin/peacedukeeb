@@ -1235,4 +1235,48 @@ Wire Wire Line
 Connection ~ 8500 2550
 Wire Wire Line
 	8500 2550 8550 2550
+$Comp
+L Mechanical:MountingHole MH1
+U 1 1 6162D2C7
+P 2050 4050
+F 0 "MH1" H 2150 4096 50  0000 L CNN
+F 1 "MountingHole" H 2150 4005 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 2050 4050 50  0001 C CNN
+F 3 "~" H 2050 4050 50  0001 C CNN
+	1    2050 4050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole MH2
+U 1 1 6162E687
+P 2050 4300
+F 0 "MH2" H 2150 4346 50  0000 L CNN
+F 1 "MountingHole" H 2150 4255 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 2050 4300 50  0001 C CNN
+F 3 "~" H 2050 4300 50  0001 C CNN
+	1    2050 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole MH3
+U 1 1 6163588D
+P 2050 4550
+F 0 "MH3" H 2150 4596 50  0000 L CNN
+F 1 "MountingHole" H 2150 4505 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 2050 4550 50  0001 C CNN
+F 3 "~" H 2050 4550 50  0001 C CNN
+	1    2050 4550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole MH4
+U 1 1 61635893
+P 2050 4800
+F 0 "MH4" H 2150 4846 50  0000 L CNN
+F 1 "MountingHole" H 2150 4755 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3" H 2050 4800 50  0001 C CNN
+F 3 "~" H 2050 4800 50  0001 C CNN
+	1    2050 4800
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
