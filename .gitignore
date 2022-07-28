@@ -8,3 +8,4 @@ pcb/pcb.*-bak
 pcb/pcb.bin
 pcb/pcb.dsn
 pcb/*cache*
+pcb/pcb-backups/
